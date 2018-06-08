@@ -32,6 +32,22 @@
    
 }
 
+#constructconnectPicExperience_Mobile {
+    background-image:url("../images/constructconnect.jpg");
+    background-position: -49px -20px;
+    background-repeat: no-repeat;
+    background-size: 280px auto;
+    border: medium none;
+    display: block;
+    height: 185px;
+    opacity: 0.8;
+    background-position: -45px;
+    width: 195px;
+    float:none; 
+    margin:0px auto;
+   
+}
+
 #ryersonPicExperience_Mobile {
     background-image:url("ryerson.png");
     background-size: 249px auto; 
